@@ -1,4 +1,4 @@
-# GoWider
+# video-translation-dubbing
 
 > **ONE REEL. EVERY AUDIENCE.**  
 > AI-powered regional video localization platform for short-form video creators. Dub 9:16 vertical Reels into 12 Indian languages while preserving the creator's natural voice, cadence, and vocal identity.
